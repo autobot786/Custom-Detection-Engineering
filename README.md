@@ -34,11 +34,11 @@
 
 This repository provides **15 enterprise-grade detection rules** covering critical threat scenarios, from credential abuse to ransomware indicators. Built for **Detection Engineers**, **SOC Analysts**, and **Incident Responders**, this project includes:
 
-✅ **Vendor-agnostic Sigma rules** (Splunk SPL, Microsoft Sentinel KQL, Elastic EQL)  
-✅ **Incident response playbooks** (Markdown + Jupyter notebooks)  
-✅ **SIEM/SOAR automation scaffolding** (Sentinel Logic Apps, Splunk SOAR, Elastic actions)  
-✅ **Real-world tuning guidance** and metrics templates  
-✅ **MITRE ATT&CK mapping** for threat coverage validation
+ **Vendor-agnostic Sigma rules** (Splunk SPL, Microsoft Sentinel KQL, Elastic EQL)  
+ **Incident response playbooks** (Markdown + Jupyter notebooks)  
+ **SIEM/SOAR automation scaffolding** (Sentinel Logic Apps, Splunk SOAR, Elastic actions)  
+ **Real-world tuning guidance** and metrics templates  
+ **MITRE ATT&CK mapping** for threat coverage validation
 
 > **Perfect for portfolios, SOC modernization, or testing detection pipelines with synthetic data.**
 
@@ -352,9 +352,9 @@ Contributions are welcome! Please:
 ##  Version History
 
 ### v1.1.0 (Latest)
-✅ Added complete SIEM queries (Splunk/Sentinel/Elastic) for all 15 detections  
-✅ Added metrics template and synthetic SIEM screenshots  
-✅ Enhanced SOAR scaffolding with webhook payloads
+ Added complete SIEM queries (Splunk/Sentinel/Elastic) for all 15 detections  
+ Added metrics template and synthetic SIEM screenshots  
+ Enhanced SOAR scaffolding with webhook payloads
 
 ### v1.0.0
  Initial release: 15 Sigma detections + response playbooks
